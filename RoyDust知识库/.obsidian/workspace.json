@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "3d4351974f1a824d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d79cffa75162a140",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "234795721bec73d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端进阶/微信小程序云开发.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f99b21f93e38b6b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "51991df64f38a009",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da1feeb3893592aa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "569961088e4fc22d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c3a5735ba3a23a4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 314.5
+  },
+  "right": {
+    "id": "0022532daaf19b12",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec33078dd88ca02e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14591c45d4db508e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "前端进阶/微信小程序云开发.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "17527fe1922338ec",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "前端进阶/微信小程序云开发.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "010ae6ab962a30dd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e78ec5ddec0de41f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "前端进阶/微信小程序云开发.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "234795721bec73d8",
+  "lastOpenFiles": [
+    "其他技术笔记/github美化.md",
+    "前端进阶/前端性能优化.md",
+    "小知识点/PM2部署Egg项目到服务器.md",
+    "前端进阶/React18学习笔记.md",
+    "面经/我的面经.md",
+    "小知识点/Vue3+TS项目初始化配置.md",
+    "前端进阶/Vue3.js学习笔记.md",
+    "前端进阶/Vue2.js学习笔记.md",
+    "前端进阶/Node.js学习笔记.md",
+    "前端进阶/微信小程序学习笔记.md"
+  ]
+}
