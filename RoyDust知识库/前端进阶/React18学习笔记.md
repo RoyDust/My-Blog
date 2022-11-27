@@ -3336,7 +3336,7 @@ export default App;
 
 ![image-20221026205228522](http://img.roydust.top/img/202210262052594.png)
 
-- 在 HTML 中，表单元素（如<input/>、 <textarea/> 和 <select/>）之类的表单元素通常自己维护 state，并根据用户输入进行更新
+- 在 HTML 中，表单元素（如<input / >、 <textarea/ > 和 <select/ >）之类的表单元素通常自己维护 state，**并根据用户输入进行更新**
 - 由于在表单元素上设置了 value 属性，因此显示的值将始终为 this.state.value，这使得 React 的 state 成为唯一数据源。
 - 由于 handleUsernameChange 在每次按键时都会执行并更新 React 的 state，因此显示的值将随着用户输入而更新
 
